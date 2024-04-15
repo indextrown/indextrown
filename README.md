@@ -9,7 +9,7 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=indextrown&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
-<img src="https://github.com/깃허브ID/깃허브ID/blob/output/github-snake-dark.svg" width="100%">
+<img src="https://github.com/indextrown/indextrown/blob/output/github-snake-dark.svg" width="100%">
 <!--
 **indextrown/indextrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
