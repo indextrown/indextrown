@@ -27,10 +27,11 @@ Mobile Application
 -->
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>  
 
-<!--
+
 Backend  
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Node.JS-04ba2e?style=flat-square&logo=nodedotjs&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/SPRING BOOT-04ba2e?style=flat-square&logo=springboot&logoColor=FFFFFF"/></a>&nbsp;  
 
+<!--
 Frontend   
 <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-ff4800?style=flat-square&logo=html5&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/CSS-0040ff?style=flat-square&logo=css3&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/javascript-ffff00?style=flat-square&logo=javascript&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/Vue.JS-70e858?style=flat-square&logo=vuedotjs&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/REACT-0040ff?style=flat-square&logo=react&logoColor=FFFFFF"/></a>&nbsp;  
 
