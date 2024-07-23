@@ -1,3 +1,10 @@
+## About Me
+I am a developer who aims to share positive influence.
+Currently attending Ellen School, currently working on side Project <ChairFriend>
+
+
+
+
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indextrown&show_icons=true&theme=radical) -->
 
 
@@ -9,6 +16,9 @@
 
 
 <!-- ### This is DongHyeon Kim  -->
+
+
+
 
 # 👋 Intro   
 ### This is DongHyeon Kim
