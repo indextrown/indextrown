@@ -25,9 +25,10 @@ Mobile Application
 -->
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>  
 
-
+<!--
 Backend  
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Node.JS-04ba2e?style=flat-square&logo=nodedotjs&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/SPRING BOOT-04ba2e?style=flat-square&logo=springboot&logoColor=FFFFFF"/></a>&nbsp;  
+-->
 
 <br />   
 <br />   
