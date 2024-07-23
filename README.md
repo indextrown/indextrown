@@ -1,13 +1,13 @@
-## About Me
+### About Me
 I am a developer who aims to share positive influence.  
 
-## Project
+### Project
 - Currently working on side Project ChairFriend
 
-## Education
+### Education
 - Currently attending Ellen School  
 
-## Busan D.Univ 
+### Busan D.Univ 
 Computer Science
 
 
