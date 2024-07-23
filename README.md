@@ -11,11 +11,11 @@ Studying Swift, UIKit, CS
 Computer Science
 -->
 
-### Portfolio Web
+## Portfolio Web
 [Portfolio web version (under development)](https://indextrown.github.io/Portfolio/)
 
 
-### ⚒️ I've Used ... 
+## ⚒️ I've Used ... 
 
 
 Mobile Application  
