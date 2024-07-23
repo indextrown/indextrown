@@ -14,11 +14,6 @@ Computer Science
 ## Portfolio Web📝
 [포트폴리오 웹버전(개발중)](https://indextrown.github.io/Portfolio/)
 
-<br />   
-<br />   
-<br />   
-<br />   
-<br />   
 
 ### ⚒️ I've Used ...  <br>
 ---
@@ -33,6 +28,12 @@ Mobile Application
 
 Backend  
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Node.JS-04ba2e?style=flat-square&logo=nodedotjs&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/SPRING BOOT-04ba2e?style=flat-square&logo=springboot&logoColor=FFFFFF"/></a>&nbsp;  
+
+<br />   
+<br />   
+<br />   
+<br />   
+<br />   
 
 
 
