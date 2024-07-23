@@ -4,7 +4,7 @@ I am a developer who aims to share positive influence.
 ### Project
 Currently working on side Project ChairFriend
 
-### Education
+## Education
 Currently attending Ellen School (2024.07.23 ~)  
 Studying Swift, UIKit, CS
 
