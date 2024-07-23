@@ -1,7 +1,10 @@
 ## About Me
 I am a developer who aims to share positive influence.  
-  
+
+## Project
 - Currently working on side Project ChairFriend
+
+## Education
 - Currently attending Ellen School  
 
 ### Busan D.Univ 
