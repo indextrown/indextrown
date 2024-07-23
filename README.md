@@ -10,7 +10,7 @@ Studying Swift, UIKit, CS
 Computer Science
 
 ### Portfolio Web📝
-- [포트폴리오 웹버전(개발중)](https://indextrown.github.io/Portfolio/)
+[포트폴리오 웹버전(개발중)](https://indextrown.github.io/Portfolio/)
 
 <br />   
 <br />   
