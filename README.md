@@ -5,7 +5,8 @@ I am a developer who aims to share positive influence.
 - Currently working on side Project ChairFriend
 
 ### Education
-- Currently attending Ellen School  
+Currently attending Ellen School (2024.07.23 ~)  
+Studying Swift, UIKit, CS
 
 ### Busan D.Univ 
 Computer Science
