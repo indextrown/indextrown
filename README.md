@@ -15,8 +15,8 @@ Computer Science
 [Portfolio web version (under development)](https://indextrown.github.io/Portfolio/)
 
 
-### ⚒️ I've Used ...  <br>
----
+## ⚒️ I've Used ... 
+
 
 Mobile Application  
 <!--
