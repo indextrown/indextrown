@@ -12,11 +12,12 @@
 
 # 👋 Intro   
 안녕하세요! ***"선한 영향력을 나누고 싶은 개발자"*** 김동현입니다  
-<br />   
-<br />   
+
     
 # 📝포트폴리오 웹버전
 - [포트폴리오 웹버전(개발중)](https://indextrown.github.io/Portfolio/)
+<br />   
+<br />   
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
