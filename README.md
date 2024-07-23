@@ -5,6 +5,7 @@ I am a developer who aims to share positive influence.
 - Currently attending Ellen School  
 
 ### Busan D.Univ 
+Computer Science
 
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indextrown&show_icons=true&theme=radical) -->
