@@ -7,7 +7,7 @@ I am a developer who aims to share positive influence.
 ## Education
 - Currently attending Ellen School  
 
-### Busan D.Univ 
+## Busan D.Univ 
 Computer Science
 
 
