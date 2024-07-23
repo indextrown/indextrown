@@ -1,4 +1,4 @@
-### About Me
+## About Me
 I am a developer who aims to share positive influence  
 Currently working on side Project ChairFriend
 
@@ -15,7 +15,7 @@ Computer Science
 [Portfolio web version (under development)](https://indextrown.github.io/Portfolio/)
 
 
-## ⚒️ I've Used ... 
+### ⚒️ I've Used ... 
 
 
 Mobile Application  
