@@ -1,8 +1,8 @@
 ## About Me
 I am a developer who aims to share positive influence.  
   
-- Currently working on side Project <ChairFriend>  
-- Currently attending Ellen School,
+- Currently working on side Project <ChairFriend>    
+- Currently attending Ellen School  
 
 
 
