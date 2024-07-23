@@ -6,7 +6,23 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9d3e0,100:&height=180&text=welcome%20to%20DongHyeon's%20GitHub&animation=twinkling&fontColor=f1ecff&fontSize=50" />
 </div>
 -->
-### This is DongHyeon Kim 
+
+
+<!-- ### This is DongHyeon Kim  -->
+
+# 👋 Intro   
+안녕하세요! ***"선한 영향력을 나누고 싶은 개발자"*** 김동현입니다  
+제가 진행했던 프로젝트를 다른 사람에게 설명하며 이해할 수 있도록 ***김동현_포트폴리오.pdf***으로 기록했습니다.
+<br />   
+<br />   
+  
+# 📝자기소개서 및 포트폴리오  
+<!-- #### 포트폴리오  (실증적 sw개발프로젝트 과제 제출용)
+- [김동현_포트폴리오.pdf](https://github.com/user-attachments/files/15586459/_._.pdf) -->
+
+  
+#### 포트폴리오 웹버전
+- [포트폴리오 웹버전(개발중)](https://indextrown.github.io/Portfolio/)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
