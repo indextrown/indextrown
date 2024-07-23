@@ -15,7 +15,6 @@ Computer Science
 [포트폴리오 웹버전(개발중)](https://indextrown.github.io/Portfolio/)
 
 
-<br>   
 ### ⚒️ I've Used ...  <br>
 ---
 
