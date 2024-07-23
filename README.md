@@ -6,8 +6,10 @@ Currently working on side Project ChairFriend
 Currently attending Ellen School (2024.07.01 ~)  
 Studying Swift, UIKit, CS
 
+<!--
 ### Busan D.Univ 
 Computer Science
+-->
 
 ### Portfolio Web📝
 [포트폴리오 웹버전(개발중)](https://indextrown.github.io/Portfolio/)
