@@ -2,7 +2,7 @@
 I am a developer who aims to share positive influence.  
 
 ### Project
-- Currently working on side Project ChairFriend
+Currently working on side Project ChairFriend
 
 ### Education
 Currently attending Ellen School (2024.07.23 ~)  
@@ -10,6 +10,12 @@ Studying Swift, UIKit, CS
 
 ### Busan D.Univ 
 Computer Science
+
+<br />   
+<br />   
+<br />   
+<br />   
+<br />   
 
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indextrown&show_icons=true&theme=radical) -->
