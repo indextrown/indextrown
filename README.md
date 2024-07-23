@@ -20,6 +20,21 @@ Computer Science
 <br />   
 <br />   
 
+### ⚒️ I've Used ...  <br>
+---
+
+Mobile Application  
+<!--
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Flutter-0040ff?style=flat-square&logo=flutter&logoColor=FFFFFF"/></a>&nbsp;
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Android-00ff91?style=flat-square&logo=androidstudio&logoColor=FFFFFF"/></a>&nbsp;
+-->
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>  
+
+
+Backend  
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Node.JS-04ba2e?style=flat-square&logo=nodedotjs&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/SPRING BOOT-04ba2e?style=flat-square&logo=springboot&logoColor=FFFFFF"/></a>&nbsp;  
+
+
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indextrown&show_icons=true&theme=radical) -->
 
@@ -61,19 +76,6 @@ Computer Science
 </a>
 
 
-### ⚒️ I've Used ...  <br>
----
-
-Mobile Application  
-<!--
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Flutter-0040ff?style=flat-square&logo=flutter&logoColor=FFFFFF"/></a>&nbsp;
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Android-00ff91?style=flat-square&logo=androidstudio&logoColor=FFFFFF"/></a>&nbsp;
--->
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>  
-
-
-Backend  
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Node.JS-04ba2e?style=flat-square&logo=nodedotjs&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/SPRING BOOT-04ba2e?style=flat-square&logo=springboot&logoColor=FFFFFF"/></a>&nbsp;  
 
 
 <!--
