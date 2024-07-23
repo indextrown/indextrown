@@ -11,10 +11,10 @@
 <!-- ### This is DongHyeon Kim  -->
 
 # 👋 Intro   
-## 안녕하세요! ***"선한 영향력을 나누고 싶은 개발자"*** 김동현입니다  
+### This is DongHyeon Kim
 
     
-# 📝포트폴리오 웹버전
+# 📝Portfolio Web
 - [포트폴리오 웹버전(개발중)](https://indextrown.github.io/Portfolio/)
 <br />   
 <br />   
