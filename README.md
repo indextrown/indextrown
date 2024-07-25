@@ -1,12 +1,13 @@
 ## About Me
 I am a developer who aims to share positive influence  
 Currently working on side Project ChairFriend
-  
+<br />   
   
   
 ## Education
 ### Attending Ellen School (2024.07.01 ~ )  
 Studying Swift, UIKit, CS
+<br />   
   
   
    
@@ -17,7 +18,7 @@ Computer Science
 
 ## Portfolio Web
 [Portfolio web version (under development)](https://indextrown.github.io/Portfolio/)
-  
+<br />     
   
   
 
