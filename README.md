@@ -17,8 +17,6 @@ Computer Science
 
 
 ## ⚒️ I've Used ... 
-
-
 Mobile Application  
 <!--
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Flutter-0040ff?style=flat-square&logo=flutter&logoColor=FFFFFF"/></a>&nbsp;
