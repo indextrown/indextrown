@@ -29,6 +29,10 @@ Backend
 
 <br />   
 
+![Star-Bridge-생일카페-스케줄-알림](https://github.com/user-attachments/assets/184b5cb9-12b9-4b6e-a759-1962b924c2c4)
+
+
+
 <!--!
 <br />   
 <br />   
@@ -43,15 +47,13 @@ Backend
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9d3e0,100:&height=180&text=welcome%20to%20DongHyeon's%20GitHub&animation=twinkling&fontColor=f1ecff&fontSize=50" />
 </div>
--->
+
     
 # 📝Portfolio Web
 - [포트폴리오 웹버전(개발중)](https://indextrown.github.io/Portfolio/)
 <br />   
 <br />
-
-![Star-Bridge-생일카페-스케줄-알림](https://github.com/user-attachments/assets/184b5cb9-12b9-4b6e-a759-1962b924c2c4)
-
+-->
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
