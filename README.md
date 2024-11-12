@@ -22,10 +22,14 @@ Mobile Application
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>  
 
 
+<img width="1511" alt="반창고" src="https://github.com/user-attachments/assets/71237692-9162-40ac-b48a-ef80d42b7279">
+
+<!--
 <img src="https://github.com/user-attachments/assets/184b5cb9-12b9-4b6e-a759-1962b924c2c4" width="810"/>
 <br />   
 <br />   
 <br />   
+-->
 
 
 
