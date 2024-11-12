@@ -21,17 +21,6 @@ Mobile Application
 -->
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>  
 
-<!--
-Backend  
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Node.JS-04ba2e?style=flat-square&logo=nodedotjs&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/SPRING BOOT-04ba2e?style=flat-square&logo=springboot&logoColor=FFFFFF"/></a>&nbsp;  
--->
-
-
-
-
-<!--
-![Star-Bridge-생일카페-스케줄-알림](https://github.com/user-attachments/assets/184b5cb9-12b9-4b6e-a759-1962b924c2c4)
--->
 
 <img src="https://github.com/user-attachments/assets/184b5cb9-12b9-4b6e-a759-1962b924c2c4" width="810"/>
 <br />   
