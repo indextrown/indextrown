@@ -10,8 +10,10 @@ Studying Swift, UIKit, CS
 ### Busan D.Univ 
 Computer Science
 -->
+<!--
 ## Portfolio Web
 [Portfolio web version (under development)](https://indextrown.github.io/Portfolio/)
+-->
 
 ## ⚒️ I've Used ... 
 Mobile Application  
