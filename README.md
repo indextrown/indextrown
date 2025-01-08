@@ -10,7 +10,7 @@ Studying Swift, UIKit, CS
 
 <center>
       <a href="https://solved.ac/seemaster300/">
-            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seemaster300">
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=indextrown">
       </a>
 </center>
 <!--
