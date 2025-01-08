@@ -26,6 +26,16 @@ Computer Science
 Mobile Application  
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>  
 
+## Application projects 📱
+<center>
+
+|App|Description|Link|
+|:-:|:-:|:-:|
+|<img width="75" src="https://github.com/user-attachments/assets/e1cf6bf4-a1d6-4464-a14f-0cc9b0ab7e29">|__**SUSU**__<br/>주고받은 소중한 마음들, 수수와 함께 경조사비를 똑똑하게 관리해요! <br/> 2024.04 ~ |  [<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/ok-su-su/iOS)<br/> [<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white">](https://apps.apple.com/us/app/%EC%88%98%EC%88%98-susu/id6503701515?uo=4)|
+
+
+
+<br/>
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
