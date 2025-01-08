@@ -5,7 +5,14 @@ Currently working on side Project Banchango
 ## Education
 ### Attending Ellen School (2024.07.01 ~ )  
 Studying Swift, UIKit, CS  
-  
+
+## algorithm 💾
+
+<center>
+      <a href="https://solved.ac/seemaster300/">
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seemaster300">
+      </a>
+</center>
 <!--
 ### Busan D.Univ 
 Computer Science
