@@ -6,6 +6,7 @@ Currently working on side Project Banchango
 Completed Ellen School (2024.07.01 ~ 2024.09.01)  
 Studying Swift, UIKit, CS  
 
+<!--
 ## algorithm 💾
 
 <center>
@@ -13,6 +14,7 @@ Studying Swift, UIKit, CS
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=indextrown">
       </a>
 </center>
+-->
 <!--
 ### Busan D.Univ 
 Computer Science
