@@ -23,7 +23,7 @@ Computer Science
 -->
 
 ## ⚒️ I've Used ... 
-Mobile Application  
+<!--Mobile Application-->
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>  
 
 ## Application projects 📱
