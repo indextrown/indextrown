@@ -47,6 +47,7 @@ Computer Science
 - [ScaleKit](https://github.com/indextrown/ScaleKit)  
   A lightweight Swift Package for dynamic UI scaling across different iPhone screen sizes.  
   Supports both SwiftUI and UIKit using `.scaled` extensions for `CGFloat`, `Int`, `Double`, and `Float`.
+  
   🔗 [Swift Package Index에서 보기](https://swiftpackageindex.com/indextrown/ScaleKit)
 
 ## Application projects 📱
