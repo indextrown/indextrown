@@ -32,8 +32,7 @@ Computer Science
 <!--Mobile Application-->
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>  
 
-## Application projects 📱
-<center>
+
 
 <!--
 
@@ -49,7 +48,8 @@ Computer Science
   A lightweight Swift Package for dynamic UI scaling across different iPhone screen sizes.  
   Supports both SwiftUI and UIKit using `.scaled` extensions for `CGFloat`, `Int`, `Double`, and `Float`.
 
-## My Apps
+## Application projects 📱
+<center>
 |App|Description|Link|
 |:-:|:-:|:-:|
 | <img width="75" src="https://github.com/user-attachments/assets/33420e7d-779d-4f6e-b7ad-5fad9f91f6a9"> |    __**반창고**__<br/>나의 건강관리 비서 <br/> 2024.11 ~     | [<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/indextrown/Ban-Chang-Go)<br/> [<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white">](https://apps.apple.com/kr/app/%EB%B0%98%EC%B0%BD%EA%B3%A0-%EB%82%98%EC%9D%98-%EA%B1%B4%EA%B0%95%EA%B4%80%EB%A6%AC-%EB%B9%84%EC%84%9C/id6737973240) |
