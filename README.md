@@ -43,6 +43,11 @@ Computer Science
 
 -->
 
+## My Libraries 📦
+
+- [ScaleKit](https://github.com/indextrown/ScaleKit)  
+  A lightweight Swift Package for dynamic UI scaling across different iPhone screen sizes.  
+  Supports both SwiftUI and UIKit using `.scaled` extensions for `CGFloat`, `Int`, `Double`, and `Float`.
 
 
 |App|Description|Link|
@@ -52,11 +57,6 @@ Computer Science
 | <img width="75" src="https://github.com/user-attachments/assets/e249f24a-6ffb-4507-83f0-fb275c1cb379"> | __**음메요**__<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;음성으로 남기고, 요약으로 기억하세요&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/> 2025.4~ | [<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/team-RETI/EUMMEYO/tree/develop) <br/> [<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white">](https://apps.apple.com/kr/app/%EC%9D%8C%EB%A9%94%EC%9A%94-%EC%9D%8C%EC%84%B1%EA%B3%BC-%EB%A9%94%EB%AA%A8%EB%A5%BC-%EC%9A%94%EC%95%BD/id6738163114) |
 |                                                              | __**하루한컷**__<br/>하루의 순간을 담아, 사진으로 가족에게 전해보세요 <br/> 2025.4~ | [<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/team-GitDeulida/Haruhancut) <br/> [<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white">](https://apps.apple.com/kr/app/%EC%9D%8C%EB%A9%94%EC%9A%94-%EC%9D%8C%EC%84%B1%EA%B3%BC-%EB%A9%94%EB%AA%A8%EB%A5%BC-%EC%9A%94%EC%95%BD/id6738163114) |
 
-## My Libraries 📦
-
-- [ScaleKit](https://github.com/indextrown/ScaleKit)  
-  A lightweight Swift Package for dynamic UI scaling across different iPhone screen sizes.  
-  Supports both SwiftUI and UIKit using `.scaled` extensions for `CGFloat`, `Int`, `Double`, and `Float`.
 
 
 
