@@ -16,7 +16,7 @@ _Research on Social Media Platform Data Collection using Web Crawling and ChatGP
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>  
 
 ## Swift Design Web
-[CodeLounge Web Version (under development)](https://team-GitDeulida.github.io/CodeLounge-Web)
+- [CodeLounge Web Version (under development)](https://team-GitDeulida.github.io/CodeLounge-Web)
 
 ## My Libraries 📦
 
