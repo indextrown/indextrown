@@ -15,6 +15,7 @@ _Research on Social Media Platform Data Collection using Web Crawling and ChatGP
 <!--Mobile Application-->
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>  
 
+<!--
 ## Swift Design Web
 - [CodeLounge](https://index.zapto.org)
 
@@ -23,7 +24,7 @@ _Research on Social Media Platform Data Collection using Web Crawling and ChatGP
 - [ScaleKit](https://github.com/indextrown/ScaleKit)  
   A lightweight Swift Package for dynamic UI scaling across different iPhone screen sizes.  
   Supports both SwiftUI and UIKit using `.scaled` extensions for `CGFloat`, `Int`, `Double`, and `Float`.
-
+-->
 
 ## Application Projects 📱
 <center>
