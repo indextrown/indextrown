@@ -1,6 +1,6 @@
 ## About Me
 I am a developer who aims to share positive influence  
-Currently working on side Project CodeLounge  
+Currently working on side Project PopPang  
   
 ## Education
 Completed Ellen School (2024.07.01 ~ 2024.09.01)  
