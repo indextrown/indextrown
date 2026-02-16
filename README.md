@@ -10,25 +10,13 @@ Studying Swift, UIKit, CS
 [2024 Korea Multimedia Society Fall Conference]  
 _Research on Social Media Platform Data Collection using Web Crawling and ChatGPT_
 
-
-## I've Used ... ⚒️
-<!--Mobile Application-->
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>  
-
 ## Love Open Source
 - 🎖 Contributor of [apple/swift](https://github.com/swiftlang/swift/pulls?q=author%3Aindextrown)
 - 🎖 Contributor of [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios/pulls?q=author%3Aindextrown+)
 
-<!--
-## Swift Design Web
-- [CodeLounge](https://index.zapto.org)
-
-## My Libraries 📦
-
-- [ScaleKit](https://github.com/indextrown/ScaleKit)  
-  A lightweight Swift Package for dynamic UI scaling across different iPhone screen sizes.  
-  Supports both SwiftUI and UIKit using `.scaled` extensions for `CGFloat`, `Int`, `Double`, and `Float`.
--->
+## I've Used ... ⚒️
+<!--Mobile Application-->
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>  
 
 ## Application Projects 📱
 <center>
@@ -92,7 +80,16 @@ _Research on Social Media Platform Data Collection using Web Crawling and ChatGP
 
 
 
+<!--
+## Swift Design Web
+- [CodeLounge](https://index.zapto.org)
 
+## My Libraries 📦
+
+- [ScaleKit](https://github.com/indextrown/ScaleKit)  
+  A lightweight Swift Package for dynamic UI scaling across different iPhone screen sizes.  
+  Supports both SwiftUI and UIKit using `.scaled` extensions for `CGFloat`, `Int`, `Double`, and `Float`.
+-->
 
 
 
