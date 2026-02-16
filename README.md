@@ -12,7 +12,6 @@ _Research on Social Media Platform Data Collection using Web Crawling and ChatGP
 
 ## Love Open Source
 - 🎖 Contributor of [apple/swift](https://github.com/swiftlang/swift/pulls?q=author%3Aindextrown)
-- 🎖 Contributor of [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios/pulls?q=author%3Aindextrown+)
 
 ## I've Used ... ⚒️
 <!--Mobile Application-->
