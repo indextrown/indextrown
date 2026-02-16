@@ -13,7 +13,7 @@ _Research on Social Media Platform Data Collection using Web Crawling and ChatGP
 
 ## I've Used ... ⚒️
 <!--Mobile Application-->
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>  
+- <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>  
 
 <!--
 ## Swift Design Web
