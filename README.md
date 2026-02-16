@@ -1,19 +1,23 @@
 ## About Me
-- I am a developer who aims to share positive influence  
+I am a developer who aims to share positive influence  
 Currently working on side Project PopPang  
   
 ## Education
-- Completed Ellen School (2024.07.01 ~ 2024.09.01)  
+Completed Ellen School (2024.07.01 ~ 2024.09.01)  
 Studying Swift, UIKit, CS  
 
 ## Awards 🏆
-- [2024 Korea Multimedia Society Fall Conference]  
+[2024 Korea Multimedia Society Fall Conference]  
 _Research on Social Media Platform Data Collection using Web Crawling and ChatGPT_
 
 
 ## I've Used ... ⚒️
 <!--Mobile Application-->
-- <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>  
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>  
+
+## Love Open Source
+- 🎖 Contributor of [apple/swift](https://github.com/swiftlang/swift/pulls?q=author%3Aindextrown)
+- 🎖 Contributor of [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios/pulls?q=author%3Aindextrown+)
 
 <!--
 ## Swift Design Web
