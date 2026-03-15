@@ -8,7 +8,7 @@ Studying Swift, UIKit, CS
 
 <!--🏆-->
 ## Awards 
--[2024 Korea Multimedia Society Fall Conference]  
+[2024 Korea Multimedia Society Fall Conference]  
 _Research on Social Media Platform Data Collection using Web Crawling and ChatGPT_
 
 <!--
