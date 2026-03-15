@@ -6,8 +6,9 @@ Currently working on side Project PopPang
 Completed Ellen School (2024.07.01 ~ 2024.09.01)  
 Studying Swift, UIKit, CS  
 
-## Awards 🏆
-[2024 Korea Multimedia Society Fall Conference]  
+<!--🏆-->
+## Awards 
+-[2024 Korea Multimedia Society Fall Conference]  
 _Research on Social Media Platform Data Collection using Web Crawling and ChatGPT_
 
 <!--
