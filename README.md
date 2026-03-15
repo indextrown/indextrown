@@ -17,7 +17,6 @@ _Research on Social Media Platform Data Collection using Web Crawling and ChatGP
 | Project | Description | Link |
 |:--:|:--|:--:|
 | **TurboListKit** | High-performance list framework for iOS.<br>UICollectionView-based architecture.<br>Works with both UIKit and SwiftUI. | <a href="https://github.com/indextrown/TurboListKit"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a> |
--->
 
 ## Love Open Source
 
@@ -25,6 +24,14 @@ _Research on Social Media Platform Data Collection using Web Crawling and ChatGP
 - 🚀 Creator of [TurboListKit](https://github.com/indextrown/TurboListKit)  
   - High-performance list framework for iOS.<br>
   - Built on UICollectionView and usable in both UIKit and SwiftUI.
+-->
+
+## Love Open Source
+
+- 🎖 Contributor of [apple/swift](https://github.com/swiftlang/swift/pulls?q=author%3Aindextrown)
+- 🚀 Creator of [TurboListKit](https://github.com/indextrown/TurboListKit)  
+  - High-performance UICollectionView-based list framework for UIKit with SwiftUI compatibility  
+  - Inspired by [Toss](https://toss.im/slash-22/sessions/1-1?srsltid=AfmBOoq5DJS5eHRHP-frEkey_aXm5c0JXZYqYX9Bp9LTWRCLPL_pew35) and [Carbon](https://github.com/ra1028/Carbon)
 
 ## I've Used ... ⚒️
 <!--Mobile Application-->
