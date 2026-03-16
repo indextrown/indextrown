@@ -31,8 +31,14 @@ _Research on Social Media Platform Data Collection using Web Crawling and ChatGP
 
 - 🎖 Contributor of [apple/swift](https://github.com/swiftlang/swift/pulls?q=author%3Aindextrown)
 - 🚀 Creator of [TurboListKit](https://github.com/indextrown/TurboListKit)  
-  - High-performance UICollectionView-based list framework for UIKit with SwiftUI compatibility  
-  - Inspired by [Toss](https://toss.im/slash-22/sessions/1-1?srsltid=AfmBOoq5DJS5eHRHP-frEkey_aXm5c0JXZYqYX9Bp9LTWRCLPL_pew35) and [Carbon](https://github.com/ra1028/Carbon)
+  High-performance UICollectionView-based list framework for UIKit with SwiftUI compatibility  
+  Inspired by [Toss](https://toss.im/slash-22/sessions/1-1?srsltid=AfmBOoq5DJS5eHRHP-frEkey_aXm5c0JXZYqYX9Bp9LTWRCLPL_pew35) and [Carbon](https://github.com/ra1028/Carbon)
+
+- 🚀 Creator of [AutoCodable](https://github.com/indextrown/AutoCodable)  
+  Swift Macro that automatically generates `CodingKeys` with custom JSON key mapping.
+
+- 🚀 Creator of [AutoEquatable](https://github.com/indextrown/AutoEquatable)  
+  Swift Macro that generates `Equatable` implementations declaratively for optimized SwiftUI view diffing.
 
 ## I've Used ... ⚒️
 <!--Mobile Application-->
