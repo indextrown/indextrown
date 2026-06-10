@@ -13,8 +13,9 @@ _Research on Social Media Platform Data Collection using Web Crawling and ChatGP
 
 ## Love Open Source
 
-- 🎖 Contributor of [apple/swift](https://github.com/swiftlang/swift/pulls?q=author%3Aindextrown)
-- 🎖 Contributor of [reactorKit](https://github.com/ReactorKit/ReactorKit/pulls?q=author%3Aindextrown)
+- 🎖 Contributor of [Apple/Swift](https://github.com/swiftlang/swift/pulls?q=author%3Aindextrown)
+- 🎖 Contributor of [ReactorKit](https://github.com/ReactorKit/ReactorKit/pulls?q=author%3Aindextrown)
+- 🎖 Contributor of [TCA](https://github.com/pointfreeco/swift-composable-architecture/pulls?q=author%3Aindextrown+)
 <!--
 - 🚀 Creator of [TurboNavigator](https://github.com/indextrown/TurboNavigator) | Powerful navigation engine for iOS. Unifies push, present, tab, and deep link into a single routing system
 - 🚀 Creator of [TurboListKit](https://github.com/indextrown/TurboListKit) | High-performance UICollectionView-based list framework for UIKit with SwiftUI compatibility 
