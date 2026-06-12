@@ -11,6 +11,9 @@ Studying Swift, UIKit, CS
 [2024 Korea Multimedia Society Fall Conference]  
 _Research on Social Media Platform Data Collection using Web Crawling and ChatGPT_
 
+## Blog
+- [SwiftUI Diffing, 끝까지 파고들었습니다.](https://indextrown.github.io/SwiftUI-diff/)
+
 ## Love Open Source
 
 - 🎖 Contributor of [Apple/Swift](https://github.com/swiftlang/swift/pulls?q=author%3Aindextrown)
