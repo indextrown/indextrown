@@ -13,9 +13,9 @@ _Research on Social Media Platform Data Collection using Web Crawling and ChatGP
 
 ## Blog
 - [SwiftUI Diffing, 끝까지 파고들었습니다](https://indextrown.github.io/SwiftUI-diff/)
-- [SwiftUI가 코드를 보는법](https://indextrown.github.io/swiftui-demystify-swiftui/)
+<!--- [SwiftUI가 코드를 보는법](https://indextrown.github.io/swiftui-demystify-swiftui/) -->
 - [반응형 프로그래밍 정복하기](https://indextrown.github.io/ReactiveX-ReactiveX-1/)
-- [클린아키텍처 정복하기](https://indextrown.github.io/CleanArchitecture-Clean-Architecture/)
+<!--- [클린아키텍처 정복하기](https://indextrown.github.io/CleanArchitecture-Clean-Architecture/) -->
 
 ## Love Open Source
 
