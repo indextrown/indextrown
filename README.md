@@ -14,6 +14,7 @@ _Research on Social Media Platform Data Collection using Web Crawling and ChatGP
 ## Blog
 - [SwiftUI Diffing, 끝까지 파고들었습니다](https://indextrown.github.io/SwiftUI-diff/)
 - [반응형 프로그래밍 정복하기](https://indextrown.github.io/ReactiveX-ReactiveX-1/)
+- [네이티브로 개발하던 팝팡에 React Native를 더한 이유](https://indextrown.github.io/PopPang-poppang1/)
 <!--- [SwiftUI가 코드를 보는법](https://indextrown.github.io/swiftui-demystify-swiftui/) -->
 
 <!--- [클린아키텍처 정복하기](https://indextrown.github.io/CleanArchitecture-Clean-Architecture/) -->
