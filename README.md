@@ -38,8 +38,9 @@ _Research on Social Media Platform Data Collection using Web Crawling and ChatGP
 
 <!--| Inspired by [Toss](https://toss.im/slash-22/sessions/1-1?srsltid=AfmBOoq5DJS5eHRHP-frEkey_aXm5c0JXZYqYX9Bp9LTWRCLPL_pew35) and [Carbon](https://github.com/ra1028/Carbon) -->
 
-## I've Used ... <!--⚒️-->
+<!-- ## I've Used ... 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>  
+-->
 
 ## Application Projects <!--📱-->
 <center>
